@@ -7,4 +7,5 @@ int main(){
     a = w*l;
     cout<<"area of rectangle ="<<endl<<a;
     return 0;
+    
 }
